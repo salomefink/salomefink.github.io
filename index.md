@@ -11,6 +11,7 @@ Ein paar Fakten zur Person:
 * erstes Engagement
 * Durchbruch
 
+<img src = "https://openclipart.org/image/800px/321262"/>
 
 Mein Held sagt:
 > Das Leben ist schön!
