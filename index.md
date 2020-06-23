@@ -10,3 +10,7 @@ Ein paar Fakten zur Person:
 * ausgeschult
 * erstes Engagement
 * Durchbruch
+
+
+Mein Held sagt:
+> Das Leben ist schön!
